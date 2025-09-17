@@ -1,1 +1,0 @@
-Med HC WhatsApp MVP v2.2: agrega /api/send/text, espera de 2s antes de enviar documento y muestra wa_response en UI.
